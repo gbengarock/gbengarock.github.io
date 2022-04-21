@@ -1,0 +1,96 @@
+.navbar-brand {
+  position: relative;
+  left: 15%;
+  font-size: 200%;
+}
+.jumbotron {
+  height: 900px;
+  width: 100%;
+  background-image: url(../images/mybackground.png);
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  color: white;
+  font-size: 200%;
+  padding-top: 200px;
+}
+
+#about {
+  background-color: #191919;
+  color: white;
+  height: 100%;
+}
+#about p {
+  color: #fcfc;
+  font-size: 160%;
+}
+.about-text h2 {
+  margin-top: 30px;
+  font-size: 4rem;
+}
+.about-text h5 {
+  font-size: 1.8rem;
+}
+span {
+  color: red;
+}
+
+#services-page {
+  text-align: center;
+  background-color: #101010;
+  color: white;
+}
+
+.card {
+  background-color: #191919;
+  padding: 10px;
+}
+.header {
+  font-size: 200%;
+  font-weight: bold;
+}
+.sub-header {
+  font-size: 75%;
+}
+.card i {
+  font-size: 50px;
+  display: block;
+  text-align: center;
+  margin: 25px 0;
+  color: #f9004d;
+}
+.card-text {
+  color: #fcfc;
+}
+.container {
+  padding: 100px 0;
+  font-size: 120%;
+}
+.contact {
+  background-color: #101010;
+  color: white;
+}
+#contact-page {
+  background-color: #191919;
+  padding: 50px 0;
+}
+.contact-info-content-line{
+    height: auto;
+    padding: 10px;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    margin-left: 100px;
+}
+.contact-info-icon-text{
+    color: whitesmoke;
+    padding:15px;
+  }
+.icon {
+    color: #f9004d;
+    margin: 0.5rem;
+    font-size: 150%;
+}
